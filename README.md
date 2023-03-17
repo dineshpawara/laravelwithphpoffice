@@ -15,7 +15,15 @@ This project is designed to extract data from an excel file and read data from i
 You need to have [Laravel](https://laravel.com/) installed to run this project.
 
 Install [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) library from Github Repo or you can install it by running the following command
-<button id="copy-button" data-clipboard-target="#copy-me">Copy</button>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="composer require phpoffice/phpspreadsheet"><pre>composer require phpoffice/phpspreadsheet</pre></div>
+
+## Usage
+Download The project as a zip file and extract all the files. 
+
+then go to project file and run the laravel development server by typing the command
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet<clipboard-copy-content="php artisan serve"><pre>php artisan serve</pre></div>
+
 
 ## License
 
